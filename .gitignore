@@ -134,3 +134,4 @@ dmypy.json
 .pyre/
 .Rhistory
 *.rda
+.RData
